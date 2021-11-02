@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^0.17.0"
+  },
+  "name": "api-demo",
+  "version": "1.0.0",
+  "description": "demo-api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nht-spec/api-demo.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Thinh Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nht-spec/api-demo/issues"
+  },
+  "homepage": "https://github.com/nht-spec/api-demo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
