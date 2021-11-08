@@ -1,6 +1,31 @@
 {
-	"Note": [
-		{ "title": "title A", "description": "Description AA" },
-		{ "title": "title B", "description": "Description BB" }
+	"products": [
+		{
+			"id" : 1,
+			"name" : "Cheese Chicken",
+			"price" : 4.0,
+			"status" : true,
+			"category" : "Chicken",
+			"picture" : "./picture/gaphomai.png"
+
+		}
+	],
+
+	"category": [
+		{
+			"id" : 1,
+			"name" : "Chicken"
+		}
+	],
+	"cart": [
+		{
+			"id" : 1,
+			"total" : 0
+		}
+	],
+	"itemcart": [
+		{
+			"id" : 1
+		}
 	]
 }
