@@ -2,18 +2,22 @@
   "categories": [
     {
       "id": 1,
-      "name": "Chicken"
+      "name": "Chicken",
+	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png" 
     },
     {
       "name": "HoPot",
-      "id": 2
+      "id": 2,
+	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png"
     },
     {
       "name": "Fries",
+	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries.png",
       "id": 3
     },
     {
       "name": "Tokbokki",
+	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/tobokki.png",
       "id": 4
     }
   ],
