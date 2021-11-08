@@ -3,6 +3,18 @@
     {
       "id": 1,
       "name": "Chicken"
+    },
+    {
+      "name": "HoPot",
+      "id": 2
+    },
+    {
+      "name": "Fries",
+      "id": 3
+    },
+    {
+      "name": "Tokbokki",
+      "id": 4
     }
   ],
   "products": [
