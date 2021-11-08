@@ -1,23 +1,23 @@
 {
+	"categories": [
+		{
+			"id" : 1,
+			"name" : "Chicken"
+		}
+	],
+
 	"products": [
 		{
 			"id" : 1,
 			"name" : "Cheese Chicken",
 			"price" : 4.0,
 			"status" : true,
-			"category" : "Chicken",
-			"picture" : "./picture/gaphomai.png"
-
+			"categoryId" : 1,
+			"picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/ganuongcay.png"
 		}
 	],
 
-	"category": [
-		{
-			"id" : 1,
-			"name" : "Chicken"
-		}
-	],
-	"cart": [
+	"carts": [
 		{
 			"id" : 1,
 			"total" : 0
@@ -25,7 +25,11 @@
 	],
 	"itemcart": [
 		{
-			"id" : 1
+			"id" : 1,
+			"cartId" : 1,
+			"productId" : 1,
+			"quantity" : 0,
+			"total" : 0
 		}
 	]
 }
