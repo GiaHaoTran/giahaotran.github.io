@@ -1,14 +1,14 @@
 {
   "categories": [
     {
-      "id": 1,
       "name": "Chicken",
-	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png" 
+	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png", 
+	  "id": 1
     },
     {
       "name": "HoPot",
-      "id": 2,
-	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png"
+	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png",
+	  "id": 2
     },
     {
       "name": "Fries",
@@ -23,13 +23,13 @@
   ],
   "products": [
     {
-      "id": 1,
       "name": "Cheese Chicken",
       "price": 4,
       "status": true,
       "categoryId": 1,
       "description": "nhập sau",
-      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/ganuongcay.png"
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/ganuongcay.png",
+	  "id": 2
     },
     {
       "name": "spicy chicken",
@@ -54,6 +54,15 @@
       "productId": 1,
       "quantity": 0,
       "total": 0
+    }
+  ],
+  "users":[
+    {
+      "username" : "nhom08",
+      "password" : "Haohao123",
+      "phone": "0123456789",
+      "address" : "ấp 4A, xã Tân Trạch, huyện Cần Đước, tỉnh Long An",
+      "id":1
     }
   ]
 }
