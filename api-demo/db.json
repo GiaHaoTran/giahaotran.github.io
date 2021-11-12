@@ -58,11 +58,28 @@
   ],
   "users":[
     {
-      "username" : "nhom08",
-      "password" : "Haohao123",
+      "username" : "duy123",
+      "password" : "Duy123",
+      "fullname" : "Bùi Hữu Duy",
       "phone": "0123456789",
       "address" : "ấp 4A, xã Tân Trạch, huyện Cần Đước, tỉnh Long An",
       "id":1
+    },
+    {
+      "username" : "thinh123",
+      "password" : "Thinh123",
+      "fullname" : "Đoàn Gia Thịnh",
+      "phone": "0123345454",
+      "address" : "ấp 5B, xã Long Trạch, huyện Cần Đước, tỉnh Long An",
+      "id":2
+    },
+    {
+      "username" : "hao123",
+      "password" : "Hao123",
+      "fullname" : "Trần Gia Hảo",
+      "phone": "0123676767",
+      "address" : "ấp 3, xã Long Hoà, huyện Cần Đước, tỉnh Long An",
+      "id":3
     }
   ]
 }
