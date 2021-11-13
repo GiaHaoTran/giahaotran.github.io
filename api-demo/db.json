@@ -27,7 +27,7 @@
       "price": 4,
       "status": true,
       "categoryId": 1,
-      "description": "nhập sau",
+      "description": "The great nutritional content of chicken and cheese, and especially the extremely flexible stickiness from Mozzarella cheese, makes many people feel new. Chicken contains a lot of protein to help the body develop comprehensively, avoid malnutrition, help the immune system work well, ... Mozzarella cheese contains many minerals and good nutrients for bones, heart, and energy. quality for the body, ... These two products are good for health and when combined we will have extremely nutritious and authentic Korean food.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
       "id": 1
     },
@@ -36,7 +36,7 @@
       "price": "5.2",
       "status": "true",
       "categoryId": 1,
-      "description": "gasjhlcvs",
+      "description": "Spicy chicken dish with crispy outside, spicy spicy taste and moderate sweetness along with tender sweet chicken inside will surely be a perfect dish.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.jgp",
       "id": 2
     },
@@ -45,7 +45,7 @@
       "price": "5.0",
       "status": "true",
       "categoryId": "1",
-      "description": "abc",
+      "description": "Fried chicken with a golden, crispy outer shell wrapped in soft and sweet chicken, scented with fragrant milk, dipped with chili sauce, ketchup or mayonnaise is really great.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken3.jpg",
       "id": 3
     },
