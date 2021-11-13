@@ -2,22 +2,22 @@
   "categories": [
     {
       "name": "Chicken",
-	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png", 
-	  "id": 1
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png",
+      "id": 1
     },
     {
       "name": "HoPot",
-	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png",
-	  "id": 2
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png",
+      "id": 2
     },
     {
       "name": "Fries",
-	  "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries.png",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries.png",
       "id": 3
     },
     {
       "name": "Tokbokki",
-	  "picture" : "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/tobokki.png",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/tobokki.png",
       "id": 4
     }
   ],
@@ -28,17 +28,141 @@
       "status": true,
       "categoryId": 1,
       "description": "nhập sau",
-      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/ganuongcay.png",
-	  "id": 2
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "id": 1
     },
     {
-      "name": "spicy chicken",
+      "name": "Spicy chicken",
       "price": "5.2",
       "status": "true",
-      "categoryId": "1",
+      "categoryId": 1,
       "description": "gasjhlcvs",
-      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/gaphomai.png",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.jgp",
       "id": 2
+    },
+    {
+      "name": "Frie Chicken",
+      "price": "5.0",
+      "status": "true",
+      "categoryId": "1",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken3.jpg",
+      "id": 3
+    },
+    {
+      "name": "Hot Pot 1",
+      "price": "9.9",
+      "status": "true",
+      "categoryId": "2",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Hot Pot 2",
+      "price": "10.99",
+      "status": "true",
+      "categoryId": "2",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
+      "id": 5
+    },
+    {
+      "name": "Hot Pot 3",
+      "price": "12.99",
+      "status": "true",
+      "categoryId": "2",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "id": 6
+    },
+    {
+      "name": "Fries 1",
+      "price": "1.29",
+      "status": "true",
+      "categoryId": "3",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "id": 7
+    },
+    {
+      "name": "Fries 2",
+      "price": "1.49",
+      "status": "true",
+      "categoryId": "3",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.jpg",
+      "id": 8
+    },
+    {
+      "name": "Fries 3",
+      "price": "1.69",
+      "status": "true",
+      "categoryId": "3",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries3.jpg",
+      "id": 9
+    },
+    {
+      "name": "Tokbokki 1",
+      "price": "8.99",
+      "status": "true",
+      "categoryId": "4",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "id": 10
+    },
+    {
+      "name": "Tokbokki 2",
+      "price": "11.49",
+      "status": "true",
+      "categoryId": "4",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jpg",
+      "id": 11
+    },
+    {
+      "name": "Tokbokki 3",
+      "price": "13.49",
+      "status": "true",
+      "categoryId": "4",
+      "description": "abc",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t3.jpg",
+      "id": 12
+    }
+  ],
+  "popular":[
+    {
+      "name": "Spicy Chicken",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.jgp",
+      "productId": "2",
+      "id": "1"
+    },
+    {
+      "name": "Fries 1",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jgp",
+      "productId": "7",
+      "id": "2"
+    },
+    {
+      "name": "Tokboki 2",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jgp",
+      "productId": "11",
+      "id": "3"
+    },
+    {
+      "name": "Cheese Chicken",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "productId": "1",
+      "id": "4"
     }
   ],
   "carts": [
@@ -56,30 +180,36 @@
       "total": 0
     }
   ],
-  "users":[
+  "users": [
     {
-      "username" : "duy123",
-      "password" : "Duy123",
-      "fullname" : "Bùi Hữu Duy",
+      "username": "duy123",
+      "password": "Duy123",
+      "fullname": "Bùi Hữu Duy",
+      "email": "duy123@gmail.com",
       "phone": "0123456789",
-      "address" : "ấp 4A, xã Tân Trạch, huyện Cần Đước, tỉnh Long An",
-      "id":1
+      "address": "ấp 4A, xã Tân Trạch, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user1.png",
+      "id": 1
     },
     {
-      "username" : "thinh123",
-      "password" : "Thinh123",
-      "fullname" : "Đoàn Gia Thịnh",
+      "username": "thinh123",
+      "password": "Thinh123",
+      "email": "thinh123@gmail.com",
+      "fullname": "Đoàn Gia Thịnh",
       "phone": "0123345454",
-      "address" : "ấp 5B, xã Long Trạch, huyện Cần Đước, tỉnh Long An",
-      "id":2
+      "address": "ấp 5B, xã Long Trạch, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user2.png",
+      "id": 2
     },
     {
-      "username" : "hao123",
-      "password" : "Hao123",
-      "fullname" : "Trần Gia Hảo",
+      "username": "hao123",
+      "password": "Hao123",
+      "email": "hao123@gmail.com",
+      "fullname": "Trần Gia Hảo",
       "phone": "0123676767",
-      "address" : "ấp 3, xã Long Hoà, huyện Cần Đước, tỉnh Long An",
-      "id":3
+      "address": "ấp 3, xã Long Hoà, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user3.jpg",
+      "id": 3
     }
   ]
 }
