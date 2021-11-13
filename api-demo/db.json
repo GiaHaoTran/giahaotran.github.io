@@ -50,83 +50,83 @@
       "id": 3
     },
     {
-      "name": "Hot Pot 1",
+      "name": "Hot Pot Traditional",
       "price": "9.9",
       "status": "true",
       "categoryId": "2",
-      "description": "abc",
+      "description": "This dish includes a pot of broth. The side dishes to put in the boiling hot pot are usually vegetables, mushrooms, meat (sliced meat or meatballs) or seafood, tofu. Also served with fresh vermicelli or noodles.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot1.jpg",
       "id": 4
     },
     {
-      "name": "Hot Pot 2",
+      "name": "Hot Pot Chickend",
       "price": "10.99",
       "status": "true",
       "categoryId": "2",
-      "description": "abc",
+      "description": "The unique combination of chicken and hotpot creates a completely new dish. The side dishes to put in the boiling hot pot are vegetables, mushrooms, tofu. Can also be served with fresh vermicelli or noodles.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
       "id": 5
     },
     {
-      "name": "Hot Pot 3",
+      "name": "Hot Pot Seafood",
       "price": "12.99",
       "status": "true",
       "categoryId": "2",
-      "description": "abc",
+      "description": "Fresh seafood adds energy and is very good for health. The side dishes to put in the boiling hot pot are vegetables, mushrooms, tofu. Can also be served with fresh vermicelli or noodles.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
       "id": 6
     },
     {
-      "name": "Fries 1",
+      "name": "Potato Chips",
       "price": "1.29",
       "status": "true",
       "categoryId": "3",
-      "description": "abc",
+      "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
       "id": 7
     },
     {
-      "name": "Fries 2",
+      "name": "Potato Chips - Coriander",
       "price": "1.49",
       "status": "true",
       "categoryId": "3",
-      "description": "abc",
+      "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.jpg",
       "id": 8
     },
     {
-      "name": "Fries 3",
+      "name": "Potato Chips - Sauce",
       "price": "1.69",
       "status": "true",
       "categoryId": "3",
-      "description": "abc",
+      "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries3.jpg",
       "id": 9
     },
     {
-      "name": "Tokbokki 1",
+      "name": "Mixed Tokbokki",
       "price": "8.99",
       "status": "true",
       "categoryId": "4",
-      "description": "abc",
+      "description": "Tokbokki is a new and more unique version when combined with meat, vegetables, eggs, spices, water, especially mandu and sesame seeds sprinkled on top. In addition, there is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into bars, beef, bean sprouts, shiitake mushrooms, carrots, onions and soy sauce to create a dish. That's very wonderful.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
       "id": 10
     },
     {
-      "name": "Tokbokki 2",
+      "name": "Seafood Tokbokki",
       "price": "11.49",
       "status": "true",
       "categoryId": "4",
-      "description": "abc",
+      "description": "Tokbokki is a new and more unique version when combining seafood. In addition, there is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into sticks, beef, bean sprouts, onions and soy sauce to create a truly wonderful dish.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jpg",
       "id": 11
     },
     {
-      "name": "Tokbokki 3",
+      "name": "Traditional Tokbokki",
       "price": "13.49",
       "status": "true",
       "categoryId": "4",
-      "description": "abc",
+      "description": "With its eye-catching red color and attractive spicy flavor, tokbokki is a traditional dish. There is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into sticks, beef, bean sprouts, shiitake mushrooms, carrots, onions and soy sauce to taste.",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t3.jpg",
       "id": 12
     }
@@ -141,7 +141,7 @@
       "id": "1"
     },
     {
-      "name": "Fries 1",
+      "name": "Potato Chips",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jgp",
@@ -149,7 +149,7 @@
       "id": "2"
     },
     {
-      "name": "Tokboki 2",
+      "name": "Seafood Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jgp",
