@@ -163,7 +163,32 @@
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
       "productId": "1",
       "id": "4"
+    },
+    {
+      "name": "Mixed Tokbokki",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "productId": "10",
+      "id":"5"
+    },
+    {
+      "name": "Seafood Tokbokki",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jpg",
+      "productId": "11",
+      "id":"6"
+    },
+    {
+      "name": "Hot Pot Seafood",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "productId": "6",
+      "id":"7"
     }
+
   ],
   "carts": [
     {
