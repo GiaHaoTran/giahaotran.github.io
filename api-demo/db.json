@@ -30,7 +30,7 @@
       "status": true,
       "categoryId": 1,
       "description": "The great nutritional content of chicken and cheese, and especially the extremely flexible stickiness from Mozzarella cheese, makes many people feel new. Chicken contains a lot of protein to help the body develop comprehensively, avoid malnutrition, help the immune system work well, ... Mozzarella cheese contains many minerals and good nutrients for bones, heart, and energy. quality for the body, ... These two products are good for health and when combined we will have extremely nutritious and authentic Korean food.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.png",
       "id": 1
     },
     {
@@ -40,7 +40,7 @@
       "status": "true",
       "categoryId": 1,
       "description": "Spicy chicken dish with crispy outside, spicy spicy taste and moderate sweetness along with tender sweet chicken inside will surely be a perfect dish.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.png",
       "id": 2
     },
     {
@@ -50,7 +50,7 @@
       "status": "true",
       "categoryId": "1",
       "description": "Fried chicken with a golden, crispy outer shell wrapped in soft and sweet chicken, scented with fragrant milk, dipped with chili sauce, ketchup or mayonnaise is really great.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken3.png",
       "id": 3
     },
     {
@@ -60,7 +60,7 @@
       "status": "true",
       "categoryId": "2",
       "description": "This dish includes a pot of broth. The side dishes to put in the boiling hot pot are usually vegetables, mushrooms, meat (sliced meat or meatballs) or seafood, tofu. Also served with fresh vermicelli or noodles.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot1.png",
       "id": 4
     },
     {
@@ -70,7 +70,7 @@
       "status": "true",
       "categoryId": "2",
       "description": "The unique combination of chicken and hotpot creates a completely new dish. The side dishes to put in the boiling hot pot are vegetables, mushrooms, tofu. Can also be served with fresh vermicelli or noodles.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.png",
       "id": 5
     },
     {
@@ -80,7 +80,7 @@
       "status": "true",
       "categoryId": "2",
       "description": "Fresh seafood adds energy and is very good for health. The side dishes to put in the boiling hot pot are vegetables, mushrooms, tofu. Can also be served with fresh vermicelli or noodles.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
       "id": 6
     },
     {
@@ -90,7 +90,7 @@
       "status": "true",
       "categoryId": "3",
       "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
       "id": 7
     },
     {
@@ -100,7 +100,7 @@
       "status": "true",
       "categoryId": "3",
       "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.png",
       "id": 8
     },
     {
@@ -110,7 +110,7 @@
       "status": "true",
       "categoryId": "3",
       "description": "Potatoes contain high starch content as well as vitamins A, C, B6, ..., minerals and a number of other substances such as magnesium, phosphorus, iron and zinc, ... Also effective in providing Fiber, anti-cancer, ... Fried potatoes have a fleshy, moderate sweetness, in addition, the crispy, greasy potato dish creates excitement for people to eat.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries3.png",
       "id": 9
     },
     {
@@ -120,7 +120,7 @@
       "status": "true",
       "categoryId": "4",
       "description": "Tokbokki is a new and more unique version when combined with meat, vegetables, eggs, spices, water, especially mandu and sesame seeds sprinkled on top. In addition, there is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into bars, beef, bean sprouts, shiitake mushrooms, carrots, onions and soy sauce to create a dish. That's very wonderful.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
       "id": 10
     },
     {
@@ -130,7 +130,7 @@
       "status": "true",
       "categoryId": "4",
       "description": "Tokbokki is a new and more unique version when combining seafood. In addition, there is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into sticks, beef, bean sprouts, onions and soy sauce to create a truly wonderful dish.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.png",
       "id": 11
     },
     {
@@ -140,7 +140,7 @@
       "status": "true",
       "categoryId": "4",
       "description": "With its eye-catching red color and attractive spicy flavor, tokbokki is a traditional dish. There is gungjung tteokbokk - Korean fish cake with ingredients such as rice cakes cut into sticks, beef, bean sprouts, shiitake mushrooms, carrots, onions and soy sauce to taste.",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t3.png",
       "id": 12
     }
   ],
@@ -151,7 +151,7 @@
       "name": "Spicy Chicken",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.png",
       "productId": "2",
       "id": "1"
     },
@@ -179,7 +179,7 @@
       "name": "Potato Chips - Coriander",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.png",
       "productId": "7",
       "id": "4"
     },
@@ -206,7 +206,7 @@
       "name": "Mixed Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
       "productId": "10",
       "id":"6"
     },
@@ -215,7 +215,7 @@
       "name": "Seafood Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.png",
       "productId": "11",
       "id":"6"
     },
@@ -224,7 +224,7 @@
       "name": "Hot Pot Seafood",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
       "productId": "6",
       "id":"8"
     },
@@ -233,7 +233,7 @@
       "name": "Hot Pot Chickend",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.png",
       "productId": "7",
       "id": "9"
     }
@@ -245,21 +245,21 @@
       "name": "Hot Pot Seafood",
       "price": "12.99",
       "quantity": "1",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
       "id":"1"
     },
     {
       "name": "Mixed Tokbokki",
       "price": "8.99",
       "quantity": "3",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
       "id": "2"
     },
     {
       "name": "Potato Chips",
       "price": "1.29",
       "quantity": "1",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
       "id": "3"
     }
   ],
@@ -269,21 +269,21 @@
       "name": "Hot Pot Seafood",
       "price": "12.99",
       "quantity": "1",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
       "id":"1"
     },
     {
       "name": "Mixed Tokbokki",
       "price": "8.99",
       "quantity": "3",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
       "id": "2"
     },
     {
       "name": "Potato Chips",
       "price": "1.29",
       "quantity": "1",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
       "id": "3"
     }
    ],
@@ -316,7 +316,7 @@
       "fullname": "Trần Gia Hảo",
       "phone": "0123676767",
       "address": "ấp 3, xã Long Hoà, huyện Cần Đước, tỉnh Long An",
-      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user3.jpg",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user3.png",
       "id": 3
     }
   ]
