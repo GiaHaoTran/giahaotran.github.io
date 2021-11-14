@@ -24,6 +24,7 @@
   
   "products": [
     {
+      "category": "Chicken",
       "name": "Cheese Chicken",
       "price": 4,
       "status": true,
@@ -33,6 +34,7 @@
       "id": 1
     },
     {
+      "category": "Chicken",
       "name": "Spicy chicken",
       "price": "5.2",
       "status": "true",
@@ -42,6 +44,7 @@
       "id": 2
     },
     {
+      "category": "Chicken",
       "name": "Frie Chicken",
       "price": "5.0",
       "status": "true",
@@ -51,6 +54,7 @@
       "id": 3
     },
     {
+      "category": "Hot Pot",
       "name": "Hot Pot Traditional",
       "price": "9.9",
       "status": "true",
@@ -60,6 +64,7 @@
       "id": 4
     },
     {
+      "category": "Hot Pot",
       "name": "Hot Pot Chickend",
       "price": "10.99",
       "status": "true",
@@ -69,6 +74,7 @@
       "id": 5
     },
     {
+      "category": "Hot Pot",
       "name": "Hot Pot Seafood",
       "price": "12.99",
       "status": "true",
@@ -78,6 +84,7 @@
       "id": 6
     },
     {
+      "category": "Fries",
       "name": "Potato Chips",
       "price": "1.29",
       "status": "true",
@@ -87,6 +94,7 @@
       "id": 7
     },
     {
+      "category": "Fries",
       "name": "Potato Chips - Coriander",
       "price": "1.49",
       "status": "true",
@@ -96,6 +104,7 @@
       "id": 8
     },
     {
+      "category": "Fries",
       "name": "Potato Chips - Sauce",
       "price": "1.69",
       "status": "true",
@@ -105,6 +114,7 @@
       "id": 9
     },
     {
+      "category": "Tokbokki",
       "name": "Mixed Tokbokki",
       "price": "8.99",
       "status": "true",
@@ -114,6 +124,7 @@
       "id": 10
     },
     {
+      "category": "Tokbokki",
       "name": "Seafood Tokbokki",
       "price": "11.49",
       "status": "true",
@@ -123,6 +134,7 @@
       "id": 11
     },
     {
+      "category": "Tokbokki",
       "name": "Traditional Tokbokki",
       "price": "13.49",
       "status": "true",
@@ -135,6 +147,7 @@
   
   "popular":[
     {
+      "category": "Chicken",
       "name": "Spicy Chicken",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
@@ -143,20 +156,41 @@
       "id": "1"
     },
     {
+      
+      "category": "Chicken",
+      "name": "Cheese Chicken",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "productId": "2",
+      "id": "2"
+    },
+    {
+      "category": "Fries",
       "name": "Potato Chips",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jgp",
       "productId": "7",
-      "id": "2"
+      "id": "3"
+    },
+     {
+      "category": "Fries",
+      "name": "Potato Chips - Coriander",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.jpg",
+      "productId": "7",
+      "id": "4"
     },
     {
+      "category": "Tokbokki",
       "name": "Seafood Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jgp",
       "productId": "11",
-      "id": "3"
+      "id": "5"
     },
     {
       "name": "Cheese Chicken",
@@ -167,14 +201,16 @@
       "id": "4"
     },
     {
+      "category": "Tokbokki",
       "name": "Mixed Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
       "productId": "10",
-      "id":"5"
+      "id":"6"
     },
     {
+      "category": "Tokbokki",
       "name": "Seafood Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
@@ -183,12 +219,13 @@
       "id":"6"
     },
     {
+      "category": "HotPot",
       "name": "Hot Pot Seafood",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
       "productId": "6",
-      "id":"7"
+      "id":"8"
     }
 
   ],
