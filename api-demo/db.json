@@ -21,6 +21,7 @@
       "id": 4
     }
   ],
+  
   "products": [
     {
       "name": "Cheese Chicken",
@@ -131,6 +132,7 @@
       "id": 12
     }
   ],
+  
   "popular":[
     {
       "name": "Spicy Chicken",
@@ -190,21 +192,55 @@
     }
 
   ],
+  
   "carts": [
     {
-      "id": 1,
-      "total": 0
+      "name": "Hot Pot Seafood",
+      "price": "12.99",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "id":"1"
     }
-  ],
-  "itemcart": [
     {
-      "id": 1,
-      "cartId": 1,
-      "productId": 1,
-      "quantity": 0,
-      "total": 0
-    }
+      "name": "Mixed Tokbokki",
+      "price": "8.99",
+      "quantity": "3",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Potato Chips",
+      "price": "1.29",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "id": "3"
+    },
   ],
+  
+  "orders": [
+    {
+      "name": "Hot Pot Seafood",
+      "price": "12.99",
+      "quantity": "1"
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
+      "id":"1"
+    }
+    {
+      "name": "Mixed Tokbokki",
+      "price": "8.99",
+      "quantity": "3",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Potato Chips",
+      "price": "1.29",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
+      "id": "3"
+    },
+   ],
+  
   "users": [
     {
       "username": "duy123",
