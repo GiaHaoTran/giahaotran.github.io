@@ -227,7 +227,7 @@
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
       "productId": "6",
       "id":"8"
-    }
+    },
      {
       "category": "HotPot",
       "name": "Hot Pot Chickend",
@@ -236,7 +236,7 @@
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
       "productId": "7",
       "id": "9"
-    },
+    }
 
   ],
   
@@ -261,14 +261,14 @@
       "quantity": "1",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
       "id": "3"
-    },
+    }
   ],
   
   "orders": [
     {
       "name": "Hot Pot Seafood",
       "price": "12.99",
-      "quantity": "1"
+      "quantity": "1",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.jpg",
       "id":"1"
     },
@@ -285,7 +285,7 @@
       "quantity": "1",
       "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jpg",
       "id": "3"
-    },
+    }
    ],
   
   "users": [
