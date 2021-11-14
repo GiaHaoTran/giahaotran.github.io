@@ -227,6 +227,15 @@
       "productId": "6",
       "id":"8"
     }
+     {
+      "category": "Hot Pot",
+      "name": "Hot Pot Chickend",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.jpg",
+      "productId": "7",
+      "id": "9"
+    },
 
   ],
   
