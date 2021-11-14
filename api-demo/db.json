@@ -161,7 +161,7 @@
       "name": "Cheese Chicken",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.png",
       "productId": "2",
       "id": "2"
     },
@@ -170,7 +170,7 @@
       "name": "Potato Chips",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
       "productId": "7",
       "id": "3"
     },
@@ -188,7 +188,7 @@
       "name": "Seafood Tokbokki",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.png",
       "productId": "11",
       "id": "5"
     },
@@ -197,7 +197,7 @@
       "name": "Cheese Chicken",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
-      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.jgp",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.png",
       "productId": "1",
       "id": "4"
     },
