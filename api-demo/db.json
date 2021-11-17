@@ -26,7 +26,7 @@
     {
       "category": "Chicken",
       "name": "Cheese Chicken",
-      "price": 4,
+      "price": "4.29",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "status": true,
@@ -38,7 +38,7 @@
     {
       "category": "Chicken",
       "name": "Spicy chicken",
-      "price": "5.2",
+      "price": "5.49",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "status": "true",
@@ -50,7 +50,7 @@
     {
       "category": "Chicken",
       "name": "Frie Chicken",
-      "price": "5.0",
+      "price": "5.19",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "status": "true",
@@ -173,6 +173,7 @@
     {
       "category": "Chicken",
       "name": "Spicy Chicken",
+      "price": "10.49",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Spicy chicken dish with crispy outside, spicy taste and moderate sweetness along with tender sweet chicken inside.",
@@ -184,6 +185,7 @@
       
       "category": "Chicken",
       "name": "Cheese Chicken",
+      "price": "11.29",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "The great nutritional content of chicken and cheese, and stickiness from Mozzarella cheese, makes many people feel new.",
@@ -194,6 +196,7 @@
     {
       "category": "Fries",
       "name": "Potato Chips",
+      "price": "4.29",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
@@ -204,6 +207,7 @@
      {
       "category": "Fries",
       "name": "Potato Chips - Coriander",
+      "price": "4.49",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
@@ -214,6 +218,7 @@
     {
       "category": "Tokbokki",
       "name": "Seafood Tokbokki",
+      "price": "14.29",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Tokbokki is a new and more unique version when combining seafood. In addition, there is gungjung tteokbokk - Korean fish.",
@@ -224,6 +229,7 @@
     {
       "category": "Tokbokki",
       "name": "Mixed Tokbokki",
+      "price": "14.69",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Tokbokki when combined with meat, vegetables, eggs, spices, water, especially mandu and sesame seeds sprinkled on top.",
@@ -234,6 +240,7 @@
     {
       "category": "HotPot",
       "name": "Hot Pot Seafood",
+      "price": "16.49",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "Fresh seafood adds energy and is very good for health. The side dishes are vegetables, mushrooms, tofu, ...",
@@ -244,6 +251,7 @@
      {
       "category": "HotPot",
       "name": "Hot Pot Chickend",
+      "price": "13.99",
       "rating": "4.9",
       "timing": "8h00 - 21h45",
       "description": "The unique combination of chicken and hotpot creates a completely new dish. The side dishes are vegetables, mushrooms, tofu, ...",
