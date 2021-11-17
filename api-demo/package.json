@@ -1,7 +1,7 @@
 {
   "name": "giahaotran-github-io",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "main.js",
   "author": "Gia Hao",
   "description": "api-demo",
   "license": "MIT",
