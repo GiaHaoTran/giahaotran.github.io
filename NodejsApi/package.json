@@ -1,9 +1,9 @@
 {
   "name": "giahaotran-github-io",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "author": "Gia Hao",
-  "description": "demo-api",
+  "description": "NodeApi",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
