@@ -5,7 +5,7 @@ const mongoClient = require('mongoose')
 
 // setup connect mongodb by mongoose
 //const URL = 'mongodb+srv://doadmin:Z6I25JV13Y40Udn9@db-mongodb-sgp1-13649-ec8f6987.mongo.ondigitalocean.com/admin?authSource=admin&replicaSet=db-mongodb-sgp1-13649&tls=true&tlsCAFile=ca-certificate.crt'
-mongoClient.connect(process.env.DATABASE_URL, {
+mongoClient.connect(process.env.DATABASE_URL2, {
         useNewUrlParser: true,
         useUnifiedTopology: true
     })
