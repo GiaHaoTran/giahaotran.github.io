@@ -1,20 +1,26 @@
 {
-  "dependencies": {
-    "@hapi/joi": "^17.1.1",
-    "express": "^4.17.1",
-    "express-promise-router": "^4.1.0",
-    "faker": "^5.5.3",
-    "json-server": "^0.17.0",
-    "mongoose": "^6.0.13"
-  },
   "name": "giahaotran-github-io",
   "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gia Hao",
   "description": "demo-api",
-  "main": "main.js",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon main.js",
-    "start": "node main.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.1.0",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
   },
   "repository": {
     "type": "git",
@@ -23,13 +29,9 @@
   "keywords": [
     "server"
   ],
-  "author": "Gia Hao",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo/issues"
   },
-  "homepage": "https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  }
+  "homepage": "https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo#readme"
+  
 }
