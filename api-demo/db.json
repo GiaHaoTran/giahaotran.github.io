@@ -1,0 +1,345 @@
+{
+  "categories": [
+    {
+      "name": "Chicken",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken.png",
+      "id": 1
+    },
+    {
+      "name": "HoPot",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot.png",
+      "id": 2
+    },
+    {
+      "name": "Fries",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries.png",
+      "id": 3
+    },
+    {
+      "name": "Tokbokki",
+      "picture": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/tobokki.png",
+      "id": 4
+    }
+  ],
+  
+  "products": [
+    {
+      "category": "Chicken",
+      "name": "Cheese Chicken",
+      "price": "4.29",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": true,
+      "productId": 1,
+      "description": "The great nutritional content of chicken and cheese, and stickiness from Mozzarella cheese, makes many people feel new.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.png",
+      "id": 1
+    },
+    {
+      "category": "Chicken",
+      "name": "Spicy chicken",
+      "price": "5.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": 2,
+      "description": "Spicy chicken dish with crispy outside, spicy taste and moderate sweetness along with tender sweet chicken inside.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.png",
+      "id": 2
+    },
+    {
+      "category": "Chicken",
+      "name": "Frie Chicken",
+      "price": "5.19",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "3",
+      "description": "Fried chicken with a golden, crispy outer shell wrapped in soft and sweet chicken, dipped with chili sauce is really great.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken3.png",
+      "id": 3
+    },
+    {
+      "category": "Hot Pot",
+      "name": "Hot Pot Traditional",
+      "price": "9.9",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "4",
+      "description": "The side dishes to put in the boiling hot pot are usually vegetables, mushrooms, meat or seafood, tofu, ...",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot1.png",
+      "id": 4
+    },
+    {
+      "category": "Hot Pot",
+      "name": "Hot Pot Chickend",
+      "price": "10.99",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "5",
+      "description": "The unique combination of chicken and hotpot creates a completely new dish. The side dishes are vegetables, mushrooms, tofu, ...",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.png",
+      "id": 5
+    },
+    {
+      "category": "Hot Pot",
+      "name": "Hot Pot Seafood",
+      "price": "12.99",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "6",
+      "description": "Fresh seafood adds energy and is very good for health. The side dishes are vegetables, mushrooms, tofu, ...",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
+      "id": 6
+    },
+    {
+      "category": "Fries",
+      "name": "Potato Chips",
+      "price": "1.29",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "7",
+      "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
+      "id": 7
+    },
+    {
+      "category": "Fries",
+      "name": "Potato Chips - Coriander",
+      "price": "1.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "8",
+      "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.png",
+      "id": 8
+    },
+    {
+      "category": "Fries",
+      "name": "Potato Chips - Sauce",
+      "price": "1.69",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "9",
+      "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries3.png",
+      "id": 9
+    },
+    {
+      "category": "Tokbokki",
+      "name": "Mixed Tokbokki",
+      "price": "8.99",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "10",
+      "description": "Tokbokki when combined with meat, vegetables, eggs, spices, water, especially mandu and sesame seeds sprinkled on top.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
+      "id": 10
+    },
+    {
+      "category": "Tokbokki",
+      "name": "Seafood Tokbokki",
+      "price": "11.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "11",
+      "description": "Tokbokki is a new and more unique version when combining seafood. In addition, there is gungjung tteokbokk - Korean fish.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.png",
+      "id": 11
+    },
+    {
+      "category": "Tokbokki",
+      "name": "Traditional Tokbokki",
+      "price": "13.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "status": "true",
+      "productId": "12",
+      "description": "Korean fish cake with ingredients such as rice cakes cut into sticks, beef, bean sprouts, shiitake mushrooms, carrots, onions and soy sauce to taste.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t3.png",
+      "id": 12
+    }
+  ],
+  
+  "popular":[
+    {
+      "category": "Chicken",
+      "name": "Spicy Chicken",
+      "price": "10.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Spicy chicken dish with crispy outside, spicy taste and moderate sweetness along with tender sweet chicken inside.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken2.png",
+      "productId": "2",
+      "id": "1"
+    },
+    {
+      
+      "category": "Chicken",
+      "name": "Cheese Chicken",
+      "price": "11.29",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "The great nutritional content of chicken and cheese, and stickiness from Mozzarella cheese, makes many people feel new.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/chicken1.png",
+      "productId": "1",
+      "id": "2"
+    },
+    {
+      "category": "Fries",
+      "name": "Potato Chips",
+      "price": "4.29",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
+      "productId": "7",
+      "id": "3"
+    },
+     {
+      "category": "Fries",
+      "name": "Potato Chips - Coriander",
+      "price": "4.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Fried potatoes have a fleshy, moderate sweetness,  the crispy, greasy potato dish creates excitement for people to eat.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries2.png",
+      "productId": "8",
+      "id": "4"
+    },
+    {
+      "category": "Tokbokki",
+      "name": "Seafood Tokbokki",
+      "price": "14.29",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Tokbokki is a new and more unique version when combining seafood. In addition, there is gungjung tteokbokk - Korean fish.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t2.png",
+      "productId": "11",
+      "id": "5"
+    },
+    {
+      "category": "Tokbokki",
+      "name": "Mixed Tokbokki",
+      "price": "14.69",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Tokbokki when combined with meat, vegetables, eggs, spices, water, especially mandu and sesame seeds sprinkled on top.",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
+      "productId": "10",
+      "id":"6"
+    },
+    {
+      "category": "HotPot",
+      "name": "Hot Pot Seafood",
+      "price": "16.49",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "Fresh seafood adds energy and is very good for health. The side dishes are vegetables, mushrooms, tofu, ...",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
+      "productId": "6",
+      "id":"8"
+    },
+     {
+      "category": "HotPot",
+      "name": "Hot Pot Chickend",
+      "price": "13.99",
+      "rating": "4.9",
+      "timing": "8h00 - 21h45",
+      "description": "The unique combination of chicken and hotpot creates a completely new dish. The side dishes are vegetables, mushrooms, tofu, ...",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot2.png",
+      "productId": "5",
+      "id": "9"
+    }
+
+  ],
+  
+  "carts": [
+    {
+      "name": "Hot Pot Seafood",
+      "price": "12.99",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
+      "id":"1"
+    },
+    {
+      "name": "Mixed Tokbokki",
+      "price": "8.99",
+      "quantity": "3",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
+      "id": "2"
+    },
+    {
+      "name": "Potato Chips",
+      "price": "1.29",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
+      "id": "3"
+    }
+  ],
+  
+  "orders": [
+    {
+      "name": "Hot Pot Seafood",
+      "price": "12.99",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/hotpot3.png",
+      "id":"1"
+    },
+    {
+      "name": "Mixed Tokbokki",
+      "price": "8.99",
+      "quantity": "3",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/t1.png",
+      "id": "2"
+    },
+    {
+      "name": "Potato Chips",
+      "price": "1.29",
+      "quantity": "1",
+      "image": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/fries1.png",
+      "id": "3"
+    }
+   ],
+  
+  "users": [
+    {
+      "username": "duy123",
+      "password": "Duy123",
+      "fullname": "Bùi Hữu Duy",
+      "email": "duy123@gmail.com",
+      "phone": "0123456789",
+      "address": "ấp 4A, xã Tân Trạch, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user1.png",
+      "id": 1
+    },
+    {
+      "username": "thinh123",
+      "password": "Thinh123",
+      "email": "thinh123@gmail.com",
+      "fullname": "Đoàn Gia Thịnh",
+      "phone": "0123345454",
+      "address": "ấp 5B, xã Long Trạch, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user2.png",
+      "id": 2
+    },
+    {
+      "username": "hao123",
+      "password": "Hao123",
+      "email": "hao123@gmail.com",
+      "fullname": "Trần Gia Hảo",
+      "phone": "0123676767",
+      "address": "ấp 3, xã Long Hoà, huyện Cần Đước, tỉnh Long An",
+      "avatar": "https://raw.githubusercontent.com/GiaHaoTran/giahaotran.github.io/main/api-demo/picture/user3.png",
+      "id": 3
+    }
+  ]
+}
