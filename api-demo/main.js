@@ -4,8 +4,8 @@ const logger = require('morgan')
 const mongoClient = require('mongoose')
 
 // setup connect mongodb by mongoose
-const URL = 'mongodb+srv://doadmin:17F3aH68U0t9gLO4@db-mongodb-sgp1-13649-ec8f6987.mongo.ondigitalocean.com/admin?authSource=admin&replicaSet=db-mongodb-sgp1-13649&tls=true&tlsCAFile=ca-certificate.crt'
-mongoClient.connect(URL, {
+//const URL = 'mongodb+srv://doadmin:17F3aH68U0t9gLO4@db-mongodb-sgp1-13649-ec8f6987.mongo.ondigitalocean.com/admin?authSource=admin&replicaSet=db-mongodb-sgp1-13649&tls=true&tlsCAFile=ca-certificate.crt'
+mongoClient.connect('', {
         useNewUrlParser: true,
         useUnifiedTopology: true
     })
